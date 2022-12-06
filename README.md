@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathan Yuen
+- 👋 Hi, I’m Nathan Yuen and welcome to my Github portfolio!
 - 👀 I’m interested in roles related to: BizOps and Strategy, Product Management, FP&A, Data Analytics and Venture Capital
 - 🌱 I’m currently learning programming languages and studying for technical certifications 
 - 💞️ I'm always looking to collaborate with cross-functional teams in fast-paced, challenging projects! 
